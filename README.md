@@ -23,6 +23,6 @@
         <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqWglVQBPRZPZQCdNGQMDsHzhfdTBLmqWCpqhjNqzLTrhhCRKVBgFkTtwFTmnXlQBSrJgq"><img alt="Email me!" src="https://img.shields.io/twitter/url?color=blue&label=Gmail&logo=Gmail&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FFlorencioHenri"></a>
         <a href="https://www.linkedin.com/in/henrique-florencio-dev"><img alt="Lets Connect!" src="https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=LinkedIn&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FFlorencioHenri"></a>
         <a href="https://twitter.com/FlorencioHenri"><img alt="Follow me on twitter!" src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FFlorencioHenri"></a>
-        <a href="https://hennridev.netlify.app"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Portfolio&logo=portfolio&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FFlorencioHenri"></a>
+        <a href="https://hennridev.work"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Portfolio&logo=portfolio&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FFlorencioHenri"></a>
     </section>
 </div>
